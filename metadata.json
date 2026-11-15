@@ -1,0 +1,6 @@
+{
+  "name": "Department of Unusual Things",
+  "description": "Manage a whimsical secret government facility investigating, researching, and containing objects that should not exist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
